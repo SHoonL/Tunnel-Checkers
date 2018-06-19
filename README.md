@@ -4,7 +4,48 @@ This a version of the game of Checkers. All [original game rules](https://en.wik
 
 ## Game Screenshots
 
+### Start
 ![Start up](screenshots/start-up.png)
+
+### After window size selection
+![After window size selection](screenshots/after_window_size_selection.png)
+
+### After 1Player and Minimax mode selection
+![After 1Player and Minimax mode selection](screenshots/after_1player_minimax_selection.png)
+
+### After 2Player mode selection
+![After 2Player mode selection](screenshots/after_2player_selection.png)
+
+### Selected piece move preview
+![Selected piece move preview](screenshots/selected_piece_move_preview.png)
+
+### After clicking on a move
+![After clicking on a move](screenshots/after_onclick_move.png)
+
+### Elimination move available
+![Elimination move available](screenshots/elimination_move_available.png)
+
+### After elimination move
+![After elimination move](screenshots/after_elimination_move.png)
+
+### Chain elimination move available
+![Chain elimination move available](screenshots/chian_elimination_move_available.png)
+
+### After chain elimination move
+![After chain elimination move](screenshots/after_chain_elimination_move.png)
+
+### Over lateral edge move available
+![Over lateral edge move available](screenshots/over_lateral_edge_move.png)
+
+### After over lateral edge move
+![After over lateral edge move](screenshots/after_over_lateral_edge_move.png)
+
+### A piece becomes a king
+![Becomes king](screenshots/becomes_king.png)
+
+### King's available move
+![King's available move](screenshots/king_available_moves.png)
+
 
 ## Getting Started
 
