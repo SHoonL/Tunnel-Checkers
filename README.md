@@ -1,6 +1,6 @@
 # Tunnel Checkers
 
-This a version of the game of Checkers. All [original game rules](https://en.wikipedia.org/wiki/Draughts) are still vaild. However, in Tunnel Checkers, any checker piece at lateral boundaries can be played so that it will end up on the other lateral side of the game board as if the board is a tunnel. The "Tunnel" part of the title comes from that aspect of this version of Checkers. Please check out my video demo(coming soon) :movie_camera: of game play to see how it plays!
+This a version of the game of Checkers. All [original game rules](https://en.wikipedia.org/wiki/Draughts) are still vaild. However, in Tunnel Checkers, any checker piece at lateral boundaries can be played so that it will end up on the other lateral side of the game board as if the board is a tunnel. The "Tunnel" part of the title comes from that aspect of this version of Checkers.
 
 ## Game Screenshots
 
